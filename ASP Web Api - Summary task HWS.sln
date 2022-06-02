@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP Web Api - Summary task HWS", "ASP Web Api - Summary task HWS\ASP Web Api - Summary task HWS.csproj", "{79783780-558A-455F-8D31-2689D3D494EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79783780-558A-455F-8D31-2689D3D494EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79783780-558A-455F-8D31-2689D3D494EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79783780-558A-455F-8D31-2689D3D494EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79783780-558A-455F-8D31-2689D3D494EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81F3EF84-40C7-44DD-977F-8CA0A2439E67}
+	EndGlobalSection
+EndGlobal
